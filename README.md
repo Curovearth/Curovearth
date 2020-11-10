@@ -2,12 +2,14 @@
 <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width='330' align='right'> 
 <br><br>     
 Hello My Friend, Nice to meet you
-Wanna know about Swarup Tripathy !
+Wanna know about Swarup Tripathy !<br>
 
  - :electric_plug: &nbsp; A 19 yr old student pursuing *Electrical and Electronics Engineering*.
  - :satellite: &nbsp; A resident of *MARS* [Makers And Revolutionizers Society]
  - :infinity: &nbsp; A proud member of *Team Pi*
  - :brain: &nbsp; Fascinates *Brain-Computer Interface*
+ - :football: &nbsp; A fine *football player*
+ - :camera: &nbsp; Loves *photography*
 
 <br><br>
 A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br>
