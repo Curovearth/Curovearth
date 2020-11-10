@@ -6,13 +6,13 @@ Wanna know about Swarup Tripathy !
 
  - :electric_plug: &nbsp; A 19 yr old student pursuing *Electrical and Electronics Engineering*.
  - :satellite: &nbsp; A resident of *MARS* [Makers And Revolutionizers Society]
- - A proud member of Team Pi
+ - :infinity: &nbsp; A proud member of *Team Pi*
  - :brain: &nbsp; Fascinates *Brain-Computer Interface*
 
 
 A python enthusiast who loves Mathematics and firmly believes on a quote i.e 
 **"I AM INCAPABLE OF CONCEIVING INFINITY, AND YET I DO NOT ACCEPT FINITY"**. 
-<h2>Tech Stack</h2>
+<h2>Tech Stack</h2><br><br>
 <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width='330' align='right'>
 
  - 💻 &nbsp; | Python | C
