@@ -8,7 +8,7 @@ Wanna know about Swarup Tripathy !<br>
  - :satellite: &nbsp; A resident of *MARS* [Makers And Revolutionizers Society]
  - :infinity: &nbsp; A proud member of *Team Pi*
  - :brain: &nbsp; Fascinates *Brain-Computer Interface*
- - :football: &nbsp; A fine *football player*
+ - :soccer: &nbsp; A fine *football player*
  - :camera: &nbsp; Loves *photography*
 
 <br><br>
