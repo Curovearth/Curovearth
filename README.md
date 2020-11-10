@@ -1,6 +1,6 @@
 <h2> How You Doin ? It's me Swarup  <img src="https://media.giphy.com/media/huJXnKtC5Ly1VWfpIQ/giphy.gif" width="60"></h2>
 <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width='330' align='right'> 
-     
+<br><br>     
 Hello My Friend, Nice to meet you
 Wanna know about Swarup Tripathy !
 
@@ -9,9 +9,10 @@ Wanna know about Swarup Tripathy !
  - :infinity: &nbsp; A proud member of *Team Pi*
  - :brain: &nbsp; Fascinates *Brain-Computer Interface*
 
-
+<br><br>
 A python enthusiast who loves Mathematics and firmly believes on a quote i.e 
 **"I AM INCAPABLE OF CONCEIVING INFINITY, AND YET I DO NOT ACCEPT FINITY"**. 
+<br><br>
 <h2>Tech Stack</h2><br><br>
 <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width='330' align='right'>
 
