@@ -34,6 +34,7 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
  2. Finalist at Infosys SOI 
  3. IvyHacks 2020 winner with Team Pi
  4. HackTX 2020 winner with Team Pi
+ 5. Participated in DefHacks Global 2.0
 
 
 <p align= 'center' ><b>Trying To Make A Difference<b></p>
