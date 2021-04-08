@@ -28,14 +28,6 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarup-tripathy&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/swarup-tripathy/github-readme-stats)
 
-<h2>Hackathons</h2>
-
- 1. Participated in DefHacks.
- 2. Finalist at Infosys SOI 
- 3. IvyHacks 2020 winner with Team Pi
- 4. HackTX 2020 winner with Team Pi
- 5. Participated in DefHacks Global 2.0
-
 
 <p align= 'center' ><b>Trying To Make A Difference<b></p>
 <h3> 🤝🏻 Connect with Me </h3>
