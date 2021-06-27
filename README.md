@@ -19,10 +19,7 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
 <h2>Tech Stack</h2><br>
 <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width='330' align='right'>
 
- - 💻 &nbsp; | Python | C
- - 🌐 &nbsp; | HTML | CSS | JavaScript |  Tensorflow 
- - 🔧 &nbsp; | PyCharm | Visual Studio code | Jupyter Notebook | Sublime Text
- - 🖥 &nbsp; | Adobe Photoshop | Lightroom | VN
+
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarup-tripathy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Swarup's Github Stats">
  
