@@ -5,7 +5,7 @@ Hello My Friend, Nice to meet you
 
 Wanna know about Swarup Tripathy !
 <br>
- - :electric_plug: &nbsp; A 19 yr old student pursuing *Electrical and Electronics Engineering*.
+ - :electric_plug: &nbsp; A 20 yr old student pursuing *Electrical and Electronics Engineering*.
  - :satellite: &nbsp; A resident of *MARS* [Makers And Revolutionizers Society]
  - :infinity: &nbsp; A proud member of *Team Pi*
  - :brain: &nbsp; Fascinates *Brain-Computer Interface*
