@@ -19,7 +19,7 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
 <h2>Tech Stack</h2><br>
 <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width='330' align='right'>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarup-tripathy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Swarup's Github Stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarup-tripathy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Swarup's Github Stats" align='left'>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarup-tripathy&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/swarup-tripathy/github-readme-stats)
 
