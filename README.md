@@ -38,6 +38,6 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
 </p>
 
 And yeah MARS is just a made up word but looking forward for people interested in it. So feel free to hmu !!
-I just want to connect like minded people with each other.
+
  
 :star: Swarup Tripathy
