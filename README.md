@@ -1,4 +1,4 @@
-<h2> How You Doin ? It's me Swarup  <img src="https://media.giphy.com/media/huJXnKtC5Ly1VWfpIQ/giphy.gif" width="60"></h2>
+<h2> How You Doin ? It's me Swarup Tripathy <img src="https://media.giphy.com/media/huJXnKtC5Ly1VWfpIQ/giphy.gif" width="60"></h2>
 <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width='330' align='right'> 
 <br><br>     
 Hello My Friend, Nice to meet you
