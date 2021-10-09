@@ -23,6 +23,22 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarzinium-369&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Swarzinium-369/github-readme-stats)
 
+### Github Stats
+  
+<p align="center">
+  <a href="https://github.com/swarzinium-369"><span>
+    <!--
+<img height="48%" src="https://github-readme-stats.vercel.app/api?username=swarzinium-369&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+--->
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarzinium-369&theme=radical" />
+   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swarzinium-369&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>--->
+    <img width= "100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swarzinium-369&theme=dracula" />
+    </span></a>
+</p>
+
+### 📈 GitHub Activity:
+  <a href="https://github.com/swarzinium-369/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swarzinium-369&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 <p align= 'center' ><b>Trying To Make A Difference<b></p>
 <h3> 🤝🏻 Connect with Me </h3>
