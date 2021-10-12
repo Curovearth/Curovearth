@@ -55,5 +55,5 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
 
 And yeah MARS is just a made up word but looking forward for people interested in it. So feel free to hmu !!
 
- 
+ ![](https://komarev.com/ghpvc/?swarzinium-369&color=blue)
 :star: Swarup Tripathy
