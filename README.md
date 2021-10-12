@@ -1,6 +1,7 @@
 <h2> How You Doin ? It's me Swarup Tripathy <img src="https://media.giphy.com/media/huJXnKtC5Ly1VWfpIQ/giphy.gif" width="60"></h2>
 <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width='330' align='right'> 
-<br><br>     
+<br>
+<br>     
 Hello My Friend, Nice to meet you
 
 Wanna know about Swarup Tripathy !
@@ -55,5 +56,7 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
 
 And yeah MARS is just a made up word but looking forward for people interested in it. So feel free to hmu !!
 
- ![](https://komarev.com/ghpvc/?swarzinium-369&color=blue)
+
+![](https://komarev.com/ghpvc/?username=swarzinium-369)
+ <br>
 :star: Swarup Tripathy
