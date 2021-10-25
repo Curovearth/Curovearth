@@ -38,7 +38,9 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
 </p>
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/swarzinium-369/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=swarzinium-369&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!--   <a href="https://github.com/swarzinium-369/github-readme-activity-graph"><img alt="[![Swarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=swarzinium369&theme=dracula)](https://github.com/swarzinium369/github-readme-activity-graph)
+" /></a> -->
+[![Swarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=swarzinium-369)](https://github.com/swarzinium-369/github-readme-activity-graph)
 
 
 <p align= 'center' ><b>Trying To Make A Difference<b></p>
