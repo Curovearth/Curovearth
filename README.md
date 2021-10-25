@@ -18,7 +18,7 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
 **"I AM INCAPABLE OF CONCEIVING INFINITY, AND YET I DO NOT ACCEPT FINITY"**. 
 <br><br>
 <h2>Tech Stack</h2><br>
-<img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width='330' align='right'>
+<img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width='310' align='right'>
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swarzinium-369&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Swarup's Github Stats" align='left'>
  
