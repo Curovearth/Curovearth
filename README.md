@@ -48,7 +48,7 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
 
 <p>
  
-&nbsp; <a href="mailto:swarup.tripathy4810@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:mstrider10@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 <h3> 🤝🏻 Connect with Team Pi </h3>
 <p>
