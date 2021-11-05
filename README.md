@@ -13,9 +13,7 @@ Wanna know about Swarup Tripathy !
  - :soccer: &nbsp; A fine *football player*
  - :camera: &nbsp; Loves *photography*
 
-<br><br>
-A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br>
-**"I AM INCAPABLE OF CONCEIVING INFINITY, AND YET I DO NOT ACCEPT FINITY"**. 
+
 <br><br>
 <!-- <h2>Tech Stack</h2><br>
 <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width='300' align='right'>
