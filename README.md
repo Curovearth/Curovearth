@@ -37,28 +37,20 @@ A python enthusiast who loves Mathematics and firmly believes on a quote i.e <br
     </span></a>
 </p>
 
-### 📈 GitHub Activity:
-<!--   <a href="https://github.com/swarzinium-369/github-readme-activity-graph"><img alt="[![Swarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=swarzinium369&theme=dracula)](https://github.com/swarzinium369/github-readme-activity-graph)
-" /></a> -->
-[![Swarup's github activity graph](https://activity-graph.herokuapp.com/graph?username=swarzinium-369)](https://github.com/swarzinium-369/github-readme-activity-graph)
 
 
 <p align= 'center' ><b>Trying To Make A Difference<b></p>
 <h3> 🤝🏻 Connect with Me </h3>
-
 <p>
  
 &nbsp; <a href="mailto:mstrider10@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-<h3> 🤝🏻 Connect with Team Pi </h3>
+<h3> 🤝🏻 Team Pi Projects </h3>
 <p>
 &nbsp; <a href="https://www.youtube.com/channel/UCtod0cyzPDfuv5WIpytDDNw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png"  width="50" /></a>
-&nbsp; <a href="mailto:indianteampi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+
 
 And yeah MARS is just a made up word but looking forward for people interested in it. So feel free to hmu !!
 
-
-![](https://komarev.com/ghpvc/?username=swarzinium-369)
  <br>
 :star: Swarup Tripathy
