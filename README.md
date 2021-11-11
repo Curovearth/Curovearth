@@ -1,53 +1,18 @@
-<h2> How You Doin ? It's me Swarup Tripathy <img src="https://media.giphy.com/media/huJXnKtC5Ly1VWfpIQ/giphy.gif" width="60"></h2>
-<img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width='330' align='right'> 
-<br>
-<br>     
-Hello My Friend, Nice to meet you
+<div align = center>
+ <h2>Hey! My name is Swarup Tripathy</h2>
+ <p><i><b>~A Curiosity Rover on Earth</b></i></p>
+</div>
 
-Wanna know about Swarup Tripathy !
-<br>
- - :electric_plug: &nbsp; A 20 yr old student pursuing *Electrical and Electronics Engineering*.
- - :satellite: &nbsp; A resident of *MARS* [Makers And Revolutionizers Society]
- - :infinity: &nbsp; A proud member of *Team Pi*
- - :brain: &nbsp; Fascinates *Brain-Computer Interface*
- - :soccer: &nbsp; A fine *football player*
- - :camera: &nbsp; Loves *photography*
+<div>
+ <h3>About Me!</h3>
+ <p></p>
+</div>
 
-
-<br><br>
-<!-- <h2>Tech Stack</h2><br>
-<img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width='300' align='right'>
-
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swarzinium-369&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Swarup's Github Stats" align='left'>
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Swarzinium-369&langs_count=8&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Swarzinium-369/github-readme-stats) -->
-
-### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/swarzinium-369"><span>
-    <!--
-<img height="48%" src="https://github-readme-stats.vercel.app/api?username=swarzinium-369&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
---->
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=swarzinium-369&theme=radical" />
-   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swarzinium-369&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>--->
-    <img width= "100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swarzinium-369&theme=dracula" />
-    </span></a>
+<p>Hey! If you and I share any common interest do ping me on any of the below media. Let's talk about stuff that needs to be talked upon.</p>
+<p><a href="href="https://discord.com/channels/718336604887973939"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href= "https://www.linkedin.com/in/swarup-tripathy-quantangled/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href= "https://twitter.com/Swarup60722166"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
-
-
-<p align= 'center' ><b>Trying To Make A Difference<b></p>
-<h3> 🤝🏻 Connect with Me </h3>
-<p>
- 
-&nbsp; <a href="mailto:mstrider10@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
-<h3> 🤝🏻 Team Pi Projects </h3>
-<p>
-&nbsp; <a href="https://www.youtube.com/channel/UCtod0cyzPDfuv5WIpytDDNw" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/youtube.png"  width="50" /></a>
-
-
 And yeah MARS is just a made up word but looking forward for people interested in it. So feel free to hmu !!
 
  <br>
