@@ -12,7 +12,7 @@
   <li> :ringed_planet: Deep diving myself into space technology giving prior focus to space robotics.</li>
   <li> :musical_note: And yeah apart from these, I do a bit dancing as well. All I need is some good music recommendations.</li>
  </ul>
- <p>Suggest Swarup some good music to listen -> </p>
+ <p>Recommend Swarup some good music to listen -> </p>
 </div>
 <div>
  <h3>My Statistics</h3>
