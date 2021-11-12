@@ -1,5 +1,5 @@
 <div align = center>
- <h2>Hey! I am Swarup Tripathy <img src = "https://github.com/Swarzinium-369/Swarzinium-369/blob/main/Img/Dancing.gif" width=100 height=80></h2>
+ <h2>Hey! I am Swarup Tripathy <img src = "https://github.com/Swarzinium-369/Swarzinium-369/blob/main/Img/spongebob.gif" width=150 height=80></h2>
  <p><i><b>~A Curiosity Rover on Earth</b></i></p>
 </div>
 
