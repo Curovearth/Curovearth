@@ -13,8 +13,11 @@
   <li> :ringed_planet: Deep diving myself into space technology giving prior focus to space robotics.</li>
   <li> :musical_note: And yeah apart from these, I do a bit dancing as well. All I need is some good music recommendations.</li>
  </ul>
- <p>Recommend Swarup some good music to listen -> </p>
 </div>
+
+ | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation">Let's Recommend Swarup some good songs</a><br><br>Would hardly take a minute | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation"><img align="center" src="https://github.com/Swarzinium-369/Swarzinium-369/blob/main/Img/music.gif" width=600 height=350/></a>  |
+ | ------------- | ------------- |
+
 <div>
  <h3>My Statistics!</h3>
  
