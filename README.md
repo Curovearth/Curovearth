@@ -1,5 +1,5 @@
 <div align = center>
- <h2>Hey! I am Swarup Tripathy <img src = "https://github.com/Swarzinium-369/Swarzinium-369/blob/main/Img/Dancing.gif" width=100 height=70></h2>
+ <h2>Hey! I am Swarup Tripathy <img src = "https://github.com/Swarzinium-369/Swarzinium-369/blob/main/Img/Dancing.gif" width=100 height=80></h2>
  <p><i><b>~A Curiosity Rover on Earth</b></i></p>
 </div>
 
@@ -15,8 +15,11 @@
  <p>Recommend Swarup some good music to listen -> </p>
 </div>
 <div>
- <h3>My Statistics</h3>
- <img src="https://github-readme-stats.vercel.app/api?username=swarzinium-369&show_icons=true&theme=Default">
+ <h3>My Statistics!</h3>
+ 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarzinium-369&show_icons=true&include_all_commits=true&theme=Blue&hide_border=true" alt="Swarup Tripathy's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarzinium-369&hide=javascript,Jupyter Notebook&layout=compact&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
+| ------------- | ------------- |
+
 </div>
 <p>Hey! If you and I share any common interest and if you feel you resonate with me, Let's hop on to any of the platform below and let's talk about things which hasn't been given much importance to.</p>
 <p><a href="href="https://discord.com/channels/718336604887973939"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
