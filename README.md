@@ -6,7 +6,7 @@
 <div>
  <h3>About Me!</h3>
  <ul>
-  <li> :man_technologist: Currently a Wolfram Science Intern in the Technological Project Administration Department.</li>
+  <li> :man_technologist: Currently a Wolfram Science Intern in the Technical Project Administration department as a consultant.</li>
   <li> :bulb:  A Junior pursuing Electrical and Electronics Engineering</li>
   <li> :book: I love revolving myself around the language of Universe ➡ Mathematics.</b></li>
   <li> :national_park: The World has been poorly built, I look forward bringing solutions inspired from the Nature.</li>
