@@ -21,7 +21,7 @@
 <div>
  <h3>My Statistics!</h3>
  
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarzinium-369&show_icons=true&include_all_commits=true&theme=Blue&hide_border=true" alt="Swarup Tripathy's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarzinium-369&hide=javascript,Jupyter Notebook&layout=compact&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarzinium-369&show_icons=true&include_all_commits=true&hide_border=true" alt="Swarup Tripathy's github stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarzinium-369&hide=javascript,Jupyter Notebook&layout=compact&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
 | ------------- | ------------- |
 
 </div>
