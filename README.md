@@ -1,5 +1,5 @@
 <div align = center>
- <h2>Hey! I am Swarup Tripathy <img src = "https://github.com/Swarzinium-369/Swarzinium-369/blob/main/Img/spongebob.gif" width=150 height=80></h2>
+ <h2>Hey! I am Swarup Tripathy <img src = "https://github.com/Curovearth/Curovearth/blob/main/Img/spongebob.gif" width=150 height=80></h2>
  <p><i><b>~A Curiosity Rover on Earth</b></i></p>
 </div>
 
@@ -15,13 +15,13 @@
  </ul>
 </div>
 
- | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation">Let's Recommend Swarup some good songs</a><br><br>Would hardly take a minute | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation"><img align="center" src="https://github.com/Swarzinium-369/Swarzinium-369/blob/main/Img/music.gif" width=600 height=350/></a>  |
+ | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation">Let's Recommend Swarup some good songs</a><br><br>Would hardly take a minute | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation"><img align="center" src="https://github.com/Curovearth/Curovearth/blob/main/Img/music.gif" width=600 height=350/></a>  |
  | ------------- | ------------- |
 
 <div>
  <h3>My Statistics!</h3>
  
-| ![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarzinium-369&count_private=true&hide_border=true&include_all_commits=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarzinium-369&hide=javascript,Jupyter Notebook,HTML,CSS&layout=compact&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
+| ![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curovearth&count_private=true&hide_border=true&include_all_commits=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curovearth&hide=javascript,Jupyter Notebook,HTML,CSS&layout=compact&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
 | ------------- | ------------- |
 
 </div>
