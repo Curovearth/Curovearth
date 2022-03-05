@@ -5,7 +5,7 @@
 
 <!-- <div align=center> -->
 <div>
- <h3>About Me! <img src='https://img.shields.io/badge/Swarup%20Portfolio-f70000?style=for-the-badge&logoColor=white'  width=150></h3>
+ <h3>About Me! </h3>
 <!--  <ul>
   <li> :man_technologist: Currently a Wolfram Science Intern in the Technical Project Administration department as a consultant.</li>
   <li> :bulb:  A Junior pursuing Electrical and Electronics Engineering</li>
@@ -46,3 +46,4 @@
 <br>
 </div>
 :star: Swarup Tripathy
+<img src='https://img.shields.io/badge/Swarup%20Portfolio-f70000?style=for-the-badge&logoColor=white' align=left width=150>
