@@ -33,7 +33,7 @@
 <div>
  <h3>My Statistics!</h3>
  
-| ![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curovearth&count_private=true&hide_border=true&include_all_commits=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curovearth&hide=javascript,HTML,CSS&layout=compact&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
+| ![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curovearth&count_private=true&hide_border=true&include_all_commits=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curovearth&hide=javascript,jupyter notebook,HTML,CSS&layout=compact&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
 | ------------- | ------------- |
 
 </div>
