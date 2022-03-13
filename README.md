@@ -12,7 +12,7 @@
   <li> :book: I love revolving myself around the language of Universe ➡ Mathematics.</b></li>
   <li> :national_park: The World has been poorly built, I look forward bringing solutions inspired from the Nature.</li>
   <li> :ringed_planet: Deep diving myself into space technology giving prior focus to space robotics.</li>
-  <li> :musical_note: And yeah apart from these, I do a bit dancing as well. All I need is some good music recommendations.</li>
+  <li> :musical_note: And yeah apart from these, I do a bit dancing as well.</li>
  </ul> -->
  :man_technologist: Currently a Wolfram Science Intern in the Technical Project Administration department as a consultant.
  
