@@ -45,5 +45,9 @@
 </p>
 <br>
 </div>
+
 :star: Swarup Tripathy
+
+<br><a href='https://curovearth.github.io/'>
 <img src='https://img.shields.io/badge/Swarup%20Portfolio-f70000?style=for-the-badge&logoColor=white' align=left width=150>
+</a>
