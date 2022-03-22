@@ -1,6 +1,6 @@
 <div align = center>
  <h2>Hey! I am Swarup Tripathy <img src = "https://github.com/Curovearth/Curovearth/blob/main/Img/spongebob.gif" width=150 height=80></h2>
- <p><i><b>~A Curiosity Rover on Earth</b></i></p>
+ <p><i><b>~A Curiosity Rover on Earth {CuRovEarth}</b></i></p>
 </div>
 
 <!-- <div align=center> -->
