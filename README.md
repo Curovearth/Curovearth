@@ -1,8 +1,9 @@
+
 <div align = center>
- <h2>Hey! I am Swarup Tripathy <img src = "https://github.com/Curovearth/Curovearth/blob/main/Img/spongebob.gif" width=150 height=80></h2>
+ <h2>Hey! I am Swarup Tripathy </h2>
  <p><i><b>~A Curiosity Rover on Earth {CuRovEarth}</b></i></p>
 </div>
-
+<img align=right src = "https://github.com/Curovearth/Curovearth/blob/main/Img/giphy.gif" height=250>
 <!-- <div align=center> -->
 <div>
  <h3>About Me! </h3>
