@@ -18,7 +18,9 @@
  </ul>
 
 </div>
+<br>
 <p align=right><i>I sense you visiting my profile!</i></p>
+
 <!--  | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation">Let's Recommend Swarup some good songs</a><br><br>Would hardly take a minute | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation"><img align="center" src="https://github.com/Curovearth/Curovearth/blob/main/Img/music.gif" width=600 height=350/></a>  |
  | ------------- | ------------- | -->
 
