@@ -3,8 +3,9 @@
  <h2>Hey! I am Swarup Tripathy </h2>
  <p><i><b>~A Curiosity Rover on Earth {CuRovEarth}</b></i></p>
 </div>
+
 <img align=right src = "https://github.com/Curovearth/Curovearth/blob/main/Img/giphy.gif" height=250>
-<!-- <div align=center> -->
+
 <div>
  <h3>About Me! </h3>
 <ul>
@@ -15,19 +16,9 @@
   <li> :ringed_planet: Deep diving myself into space technology giving prior focus to space robotics.</li>
   <li> :musical_note: And yeah apart from these, I do a bit dancing as well.</li>
  </ul>
-<!--  :man_technologist: Currently a Wolfram Science Intern in the Technical Project Administration department as a consultant.
- 
- :bulb:  A Junior Undergraduate pursuing Electrical and Electronics Engineering
- 
- :book: I love revolving myself around the language of Universe ➡ Mathematics.
- 
- :national_park: The World has been poorly built, I look forward bringing solutions inspired from the Nature.
- 
- :ringed_planet: Deep diving myself into space technology giving prior focus to space robotics.
- 
- :musical_note: And yeah apart from these, I do a bit dancing as well. All I need is some good music recommendations. -->
-</div>
 
+</div>
+<p align=right><i>I sense you visiting my profile!</i></p>
 <!--  | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation">Let's Recommend Swarup some good songs</a><br><br>Would hardly take a minute | <a href="https://www.wolframcloud.com/obj/swarupt/song-recommendation"><img align="center" src="https://github.com/Curovearth/Curovearth/blob/main/Img/music.gif" width=600 height=350/></a>  |
  | ------------- | ------------- | -->
 
