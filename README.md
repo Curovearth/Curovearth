@@ -34,7 +34,8 @@
 
 <div>
  <h2>🖥 Work Station!</h2>
- 
+ <details>
+  <summary>If interested!</summary>
  <samp>
   
  | Where does Swarup code? | <img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'> <img src='https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252'> <img src='https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white'> |
@@ -45,7 +46,7 @@
  | <b>Web browsers, it is</b> | <img src='https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white'> <img src='https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white'> <img src='https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white'> |
  | <b>Ok, so what's my OS?</b> | <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'> |
  | <b>What am I learning right now?</b> | <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'> <img src='https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white'> |
- 
+ </details>
  </div>
 
 <h2>Do we share any common Interest ?</h2>
