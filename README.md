@@ -4,7 +4,7 @@
  <p><i><b>~A Curiosity Rover on Earth {CuRovEarth}</b></i></p>
 </div>
 
-<img align=right src = "https://github.com/Curovearth/Curovearth/blob/main/Img/giphy.gif" height=250>
+<img align=right src = "https://github.com/Curovearth/Curovearth/blob/main/Img/cropped%20spider.gif" height=250>
 
 <div>
  <h3>About Me! </h3>
