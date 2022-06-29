@@ -4,7 +4,7 @@
 
 
 <div>
-<img align=right height="250" src="https://github.com/Curovearth/Curovearth/blob/main/Img/cropped%20spider.gif">                  
+<img align=right height="250" src="https://github.com/Curovearth/Curovearth/blob/main/Img/cropped%20spider.gif">                 
 </div>
 
 - **Current Stage**
@@ -20,7 +20,7 @@
   - HomoDeus: A Brief History of Tomorrow 
   
 </details>
-
+<br>
 <h3>Stats $\rightarrow$ To remind me today, I am competing with my yesterday!</h3>
 <div>
 
