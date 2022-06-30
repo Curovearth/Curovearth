@@ -17,7 +17,7 @@
 <details>
  <summary><a href="https://curovearth.github.io/Blogs/index.html">Blog ✍</a> </summary>
  
-  - HomoDeus: A Brief History of Tomorrow 
+  - *HomoDeus: A Brief History of Tomorrow*
   
 </details>
 <br>
@@ -25,7 +25,7 @@
 <div>
 
  
-| ![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curovearth&count_private=true&hide_border=true&include_all_commits=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curovearth&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
+| ![Swarup's GitHub stats](https://github-readme-stats.vercel.app/api?username=Curovearth&count_private=true&hide_border=true) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curovearth&hide_border=True" alt="What all Swarup Tripathy speaks"/>|
 | ------------- | ------------- |
 
 </div>
