@@ -33,7 +33,9 @@ Hop on to any of the platform below and let's talk about things which hasn't bee
 <p><a href="https://discord.com/channels/718336604887973939"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
  <a href= "https://www.linkedin.com/in/swarup-tripathy-quantangled/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href= "https://twitter.com/Curovearth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://peerlist.io/swaruptripathy"><img src="https://peerlist-readme-badge.herokuapp.com/api/swaruptripathy?style=for-the-badge"/></a>
 </p>
+
 <br>
 </div>
 
