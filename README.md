@@ -4,19 +4,27 @@
 
 <p><i><b>~A Curiosity Rover on Earth {CuRovEarth}</b></i></p>
 
-- **Current Stage**
+- **Current Stage** 🎯
   - `I am messing things up`
   - `I am burning things up`
   - `I am building things up`
   - `I am simulating things up`
   - `I am ideating every moment` 
 
-<details>
- <summary><a href="https://curovearth.github.io/Blogs/index.html">Blog ✍</a>: Writing to share with the world </summary>
+
+- **Blog ✍: Writing to share with the world**
  
-  - *HomoDeus: A Brief History of Tomorrow*
+  - <a href="https://curovearth.github.io/Blogs/general/2022/homodeus/NewHumanAgenda.html">*HomoDeus: A Brief History of Tomorrow*</a>
   
-</details>
+
+
+<h3>Let's Connect!</h3>
+Hop on to any of the platform below and let's talk about things which hasn't been given much importance to.</p>
+<p><a href="https://discord.com/channels/718336604887973939"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href= "https://www.linkedin.com/in/swarup-tripathy-quantangled/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href= "https://twitter.com/Curovearth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://peerlist.io/swaruptripathy"><img src="https://peerlist-readme-badge.herokuapp.com/api/swaruptripathy?style=for-the-badge"/></a>
+</p>
 
 <hr>
 <h3>Stats $\rightarrow$ To remind me today, I am competing with my yesterday!</h3>
@@ -27,14 +35,6 @@
 
 </div>
 
-
-<h2>Let's Connect!</h2>
-Hop on to any of the platform below and let's talk about things which hasn't been given much importance to.</p>
-<p><a href="https://discord.com/channels/718336604887973939"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
- <a href= "https://www.linkedin.com/in/swarup-tripathy-quantangled/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href= "https://twitter.com/Curovearth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://peerlist.io/swaruptripathy"><img src="https://peerlist-readme-badge.herokuapp.com/api/swaruptripathy?style=for-the-badge"/></a>
-</p>
 
 <br>
 </div>
