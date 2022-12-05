@@ -13,6 +13,7 @@
 - **Blog ✍: Writing to share with the world**
  
   - <a href="https://curovearth.github.io/Blogs/general/2022/homodeus/NewHumanAgenda.html">*HomoDeus: A Brief History of Tomorrow*</a>
+  - Upcoming: My journey to Infinity!
 
 | 🚀 | 🌌 | 🛰 |
 |-----|------|------|
