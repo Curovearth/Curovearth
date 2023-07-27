@@ -3,19 +3,21 @@
 A curiosity rover on Earth, who is a final year undergraduate student pursuing Electrical and Electronics Engineering. The main objective for using this platform is to open source my projects especially Electronics ⚡ and to learn from you all.
 - Checkout an open source initiative while you are having your ☕: [Electroverse](https://github.com/Electroversity/Electroverse)
 
+<!-- Light Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curovearth&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Swarup Tripathy's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=Curovearth&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Swarup Tripathy's Github stats" />
-</a>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=curovearth&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Swarup Tripathy's Language stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=curovearth&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Swarup Tripathy's Github stats" /></a> |
+|---|---|
+
+
 </div>
 
-- **Blog ✍: Writing to share with the world**
- 
-  - <a href="https://curovearth.github.io/Blogs/general/2022/homodeus/NewHumanAgenda.html">*HomoDeus: A Brief History of Tomorrow*</a>
-  - Upcoming: My journey to Infinity!
+<!-- Dark Mode -->
+<div align="center"> 
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=curovearth&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Swarup Tripathy's Language stats" /></a> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=curovearth&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Swarup Tripathy's Github stats" /></a> 
+
 
 </div>
 
@@ -29,7 +31,7 @@ A curiosity rover on Earth, who is a final year undergraduate student pursuing E
        | .-'-;:__.'    =/                               print("How did you find us? \n")
        .'=  *=|ISRO _.='                                print("Were you already living amongst us? ")
       /   _.  |NASA;             *    *                        
-     ;-.-'|    \   |                                 elif species == 'human':                  *
+     ;-.-'|    \ESA|                                 elif species == 'human':                  *
     /   | \    _\  _\                                   print("Don't be so Lazy \n")
     \__/'._;.  ==' ==\                                  print("Time is less \n")
              \    \   |                      *          print("Make a Difference")             .*
