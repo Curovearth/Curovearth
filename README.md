@@ -1,6 +1,11 @@
 ### Namaste 🙏, I'm Swarup Tripathy
 
-A curiosity rover on Earth, who is a final year undergraduate student pursuing Electrical and Electronics Engineering. The main objective for using this platform is to open source my projects especially Electronics ⚡ and to learn from you all.
+Not yet declaring myself as an Engineer but have passed my undergradution. 
+
+My research interests are in the fields of nature inspired engineering with a focus on applications in the space sector. 
+
+A cup of Hot Chocolate at all times.
+
 - Checkout an open source initiative while you are having your ☕: [Electroverse](https://github.com/Electroversity/Electroverse)
 
 <!-- Light Mode -->
